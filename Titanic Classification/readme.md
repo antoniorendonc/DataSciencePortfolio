@@ -1,6 +1,6 @@
 
-# Titanic Classification (Statistics analysis and Machine LEarning Model)
+# Titanic Classification (Analysis and ML Model)
 
-Puedes ver el Dashboard interactivo en Tableau [aquí]().
+You can access the interactive Jupyter Notebook containing the project [here](/Titanic_Analysis_and_Model.ipynb)
 
-Para una explicación del proyecto, mira mi video en YouTube [aquí](https://youtu.be/ghwZvqg4RTM).
+For a detailed explanation of how I built my project, watch my YouTube video [here](https://youtu.be/ghwZvqg4RTM)).
