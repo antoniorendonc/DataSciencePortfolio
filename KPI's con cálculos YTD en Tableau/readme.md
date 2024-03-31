@@ -1,4 +1,3 @@
-
 # KPIs con calculos YTD en Tableau
 
 Puedes ver el Dashboard interactivo en Tableau [aquí](https://public.tableau.com/views/AdidasSalesbyChanelYTD/SalesbyChanel?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"}.
