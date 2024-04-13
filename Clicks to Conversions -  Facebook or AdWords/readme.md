@@ -1,7 +1,5 @@
 # Clicks to Conversions: Which Platform Performs Better, Facebook or AdWords?
 
-Jupyter Notebook :
-[Ver Dashboard en Tableau](https://public.tableau.com/app/profile/antonio.rendon/viz/OfficeStoreDashboard/Dashboard1)
+You can access the interactive Jupyter Notebook containing the project [here](Clicks to Conversions.ipynb)
 
-Dataset:
-[Ver Video](https://youtu.be/XcuDEouKbqY)
+For a detailed explanation of how I built my project, watch my YouTube video [here](Capstone Dataset_Original.xlsx)).
